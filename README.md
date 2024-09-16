@@ -9,7 +9,8 @@ Sections:
 
 Section 1:
 
-![Screenshot 2024-08-24 232852](https://github.com/user-attachments/assets/d533f5f9-8414-418b-ba86-5dbb0acfdb9f)
+![Screenshot 2024-08-24 234415](https://github.com/user-attachments/assets/349f1c17-cfe4-4b8e-9026-55d5d7e1346b)
+
 
 Section 2:
 
