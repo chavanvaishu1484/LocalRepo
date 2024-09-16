@@ -16,7 +16,8 @@ Section 2:
 ![Screenshot 2024-08-24 232913](https://github.com/user-attachments/assets/2c2b1100-1093-4461-a56e-aa0a47c53183)
 
 Footer
-![Screenshot 2024-08-24 232913](https://github.com/user-attachments/assets/d49fb314-5ed3-4c73-8825-5be1eb016ba3)
+![Screenshot 2024-08-24 234503](https://github.com/user-attachments/assets/6c4a4216-e249-4aac-9df2-cb1b7be0956a)
+
 
 
 
