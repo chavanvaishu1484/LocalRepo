@@ -1,0 +1,97 @@
+*{
+    padding: 0;
+    margin: 0;
+    color:white; 
+}
+#navbar{
+    height: 60px;
+    background-color: black ;
+    /* border: 4px,bold,rgb(213, 20, 20); */
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+
+    color: #f08804;
+    font-size: 20px;
+}
+a{
+    margin-right: 100px;
+}
+.hero{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.hero img{
+    width: 100%;    
+    height: auto;
+}
+#mission {
+    height: 100px;
+    background-color:white;
+    text-align: center;
+} 
+b{
+    color: black;
+}
+#footer1{
+    text-align: center;
+    height: 30px;
+    background-color: black;
+}
+#footer2{
+    text-align: center;
+    height: 40px;
+    background-color: black;  
+}
+#footer3{
+    height: 20px;
+    background-color: black;
+}
+.contact {
+    padding: 2em;
+    background-color: white;
+}
+
+.contact h2 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+form label {
+    margin: 0.5em 0 0.2em;
+}
+
+form input, form textarea {
+    padding: 0.8em;
+    margin-bottom: 1em;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+form button {
+    padding: 1em;
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #e65b54;
+}
+
+#form-response {
+    text-align: center;
+    margin-top: 1em;
+    color: green;
+}
